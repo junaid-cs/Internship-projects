@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&display=swap');
+body{
+    font-family: 'Source Sans 3', sans-serif !important;
+}
+.hero{
+    height: 150vh;
+    background: url('./images/pizzeria-template-hero-bg-img.jpg') no-repeat center center;
+    background-size: cover;
+    border-radius:0 0 220% 200%/50%;
+    /* padding: 100px ; */
+    /* margin-bottom: 100px; */
+}
+.overlay{
+    height: 100%;
+    width: 100%;
+    border-radius:0 0 220% 200%/50%;
+    background-color: rgb(0, 0, 0,0.5);
+}
+nav ul li a{
+    color: #ffffffcc !important;
+}
+.fs-17{
+    font-size: 17px !important;
+}
+.fs-80{
+    font-size: 5.6470588235294rem;
+    font-family: 'Oswald',sans-serif;
+}
+.book-btn{
+    background: red  !important;
+    padding: 10px 30px !important;
+}
+.takeaway-btn{
+    padding: 10px 30px !important;
+
+}
+.bg-bluish-gray{
+    background: #EEEEEE;
+}
+.mt-n-228px{
+    margin-top: -228px;
+}
+.bg-none{
+    background-color: transparent !important;
+}
+.text-red{
+    color: #e4032f;
+}
+.text-gray{
+    color:#4a4a4a;
+}
+.pt-40{
+    padding-top: 96px;
+}
+@media screen and (max-width:766px) {
+    nav ul{
+        position: absolute;
+        top: 76px;
+        left: 0px;
+        background: black;
+        width: 100%;
+        align-items: center;
+    }
+    button.navbar-toggler {
+        position: absolute;
+        right: 18px;
+    }
+}
