@@ -1,0 +1,9 @@
+.contact{
+    height: 80vh;
+    background: url('./images/pizzeria-template-hero-bg-img.jpg') no-repeat center center;
+    background-size: cover;
+    border-radius:0 0 220% 200%/50%;
+}
+.mt-n-100px{
+    margin-top: -50px;
+}

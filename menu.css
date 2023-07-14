@@ -1,0 +1,23 @@
+.menu{
+    height: 90vh;
+    background: url('./images/menu.jpg') no-repeat center center;
+    background-size: cover;
+    border-radius:0 0 220% 200%/50%;
+}
+.mt-n-100px{
+    margin-top: -100px;
+}
+.menu-img img{
+
+    transition: all 0.5s ease-in-out;
+}
+.menu-img img:hover{
+    transform: translate(0px ,-15px);
+    transition: all 0.5s ease-in-out;
+
+}
+.items img{
+    width: 180px;
+    height: 110px;
+   
+}
