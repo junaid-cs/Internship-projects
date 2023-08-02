@@ -15,7 +15,7 @@ const Workouts = ({ workout }) => {
             // console.log(data);
             if(deletedata.ok){
                 dispatch({type:'DELETE_WORKOUT',payload: data})
-                console.log('data deleted');
+                console.log('data deleted',deletedata.ok);
             }
 
     }

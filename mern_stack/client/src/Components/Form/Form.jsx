@@ -49,7 +49,7 @@ const Form = () => {
                 </div>
                 <div className="mb-3">
                     <label htmlFor="exampleInputPassword1" className="form-label">Load(kg)</label>
-                    <input type="number" className="form-control" onChange={(e) => { setload(e.target.value) }} value={load} id="exampleInputPassword1" />
+                    <input type="number" className="form-control" onChange={(e) => { setload(e.target.value) }} value={load} id="exampleInputPassword2" />
                 </div>
                 <div className="mb-3">
                     <label htmlFor="exampleInputPassword1" className="form-label">Reps</label>
