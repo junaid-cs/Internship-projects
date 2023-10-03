@@ -11,6 +11,7 @@ import {
 } from "react-router-dom";
 import store from './store/Store'
 import Cartitems from './component/Cartitem/Cartitems.jsx'
+// import Data from './reducer/Data'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>

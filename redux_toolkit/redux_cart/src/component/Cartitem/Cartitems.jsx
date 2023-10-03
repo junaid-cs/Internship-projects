@@ -6,8 +6,8 @@ const Cartitems = () => {
     const items = useSelector(state => state.cart);
     const dispatch = useDispatch();
     console.log(items)
-     const handleRemove = (product)=>{
-        dispatch(remove(product))
+     const handleRemove = (productid)=>{
+        dispatch(remove(productid))
      }
   return (
     <div>

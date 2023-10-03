@@ -14,7 +14,7 @@ const Navbar = () => {
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
         <li className="nav-item">
-        <Link className="nav-link active" to='/'>Home</Link>
+        <Link className="nav-link active" to='data'>Home</Link>
         </li>
         <li className="nav-item">
           <Link className="nav-link" to='cartitem'>Cart items</Link>
@@ -34,7 +34,7 @@ const Navbar = () => {
           <a className="nav-link disabled" aria-disabled="true">Disabled</a>
         </li>
       </ul>
-      <span class="navbar-text">
+      <span className="navbar-text">
         Count : {item.length}
       </span>
     </div>
