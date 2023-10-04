@@ -1,0 +1,38 @@
+.bg-orange {
+    background: #F87E1D 0% 0% no-repeat padding-box;
+    padding-left: 20%;
+    position: relative;
+    clip-path: polygon(22% 0, 100% 0%, 100% 100%, 0% 100%);
+
+}
+
+.car-icon-text {
+    text-align: left;
+    font: normal normal bold 14px Segoe UI;
+    letter-spacing: 1.6px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.bg-orange .col-2 {
+    width: 18% !important;
+    padding: 0 3px;
+}
+
+.bg-orange select {
+    text-align: left;
+    font: normal normal bold 12px Segoe UI;
+    letter-spacing: 1.44px;
+    color: #14162DD4;
+    height: 45px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.bg-orange .search_btn {
+    background: #171B42 0% 0% no-repeat padding-box;
+    font: normal normal bold 12px Segoe UI;
+    height: 45px;
+    letter-spacing: 1.44px;
+    color: #FFFFFF;
+}

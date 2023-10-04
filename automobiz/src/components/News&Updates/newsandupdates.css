@@ -1,0 +1,28 @@
+.NewsAndUpdates{
+    min-height: 100vh;
+    background: #171B42 0% 0% no-repeat padding-box;
+}
+.NewsAndUpdates img{
+    width: 100%;
+    min-height: 200px;
+}
+.NewsAndUpdates h3{
+    color:#F87E1D ;
+    letter-spacing: 4px;
+    font: normal normal bold 30px Segoe UI
+}
+.NewsAndUpdates h4{
+    font: normal normal bold 17px Segoe UI;
+    
+}
+.NewsAndUpdates p{
+    font: normal normal bold 13px Segoe UI;
+}
+.NewsAndUpdates a{
+    text-decoration: none;
+    color: #fff;
+    font: normal normal bold 16px Segoe UI;
+    background-color: #F87E1D;
+    padding: 10px 20px;
+
+}

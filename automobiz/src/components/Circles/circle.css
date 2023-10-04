@@ -1,0 +1,35 @@
+.orange_circle{
+    background-color: #F87E1D;
+    border-radius: 50%;
+    padding: 20px 0;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    position: absolute;
+    box-shadow: 5px 8px 58px #000000;
+}
+.fs-18{
+    font: normal normal bold 22px Segoe UI;
+letter-spacing: -1.05px;
+color: #FFFFFF;
+}
+.fs-12{
+    font: normal normal bold 8px Segoe UI;
+    
+}
+.first_circle{
+top: -30px;
+left: 30px;
+}
+.second_circle{
+    top: 65px;
+    right: -35px;
+}
+.third_circle{
+    background: #0069BD 0% 0% no-repeat padding-box;
+   bottom: 65px;
+   left: -120px;
+}
+.third_circle .fs-18{
+    color: #F87E1D !important;
+}

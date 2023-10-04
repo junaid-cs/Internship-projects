@@ -1,0 +1,70 @@
+.LatestCollection {
+    min-height: 100vh;
+}
+
+.LatestCollection h3 {
+    font: normal normal bold 30px Segoe UI;
+    letter-spacing: 7.2px;
+    color: #F87E1D;
+}
+
+.img_container {
+    height: 200px;
+    width: 100%;
+    background: url('../../../public/images/download.jpeg') no-repeat;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 5px 5px 0 0;
+}
+
+.img_container i {
+    background-color: #14162D;
+    color: #F87E1D;
+    margin-right: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.card_content h5 {
+    font: normal normal bold 14px Segoe UI;
+    letter-spacing: 1.6px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.card_content p {
+    font: normal normal bold 10px Segoe UI;
+    letter-spacing: 1.28px;
+    color: #AEAEAE;
+}
+
+.card_location i {
+    color: #0069BD;
+}
+
+.card_location span {
+    font: normal normal bold 12px Segoe UI;
+    letter-spacing: 1.28px;
+    color: #F77D1C;
+    opacity: 1;
+}
+
+.bg-graish {
+    background-color: #766868;
+    border-radius: 0;
+    text-decoration: line-through;
+}
+
+.bg_card_orange {
+    background-color: #F77D1C;
+    border-radius: 0;
+}
+
+.see_more button {
+    background: #0069BD 0% 0% no-repeat padding-box;
+    border-radius: 3px;
+    opacity: 1;
+    border: none;
+    color: white;
+    border-radius: 0;
+}

@@ -1,0 +1,18 @@
+.footer_orange{
+    background: #F87E1D 0% 0% no-repeat padding-box;
+}
+.footer_orange h4{
+    font: normal normal bold 20px Segoe UI;
+letter-spacing: 0px;
+color: #14162D;
+}
+.footer_orange i{
+    font-size: 30px;
+    color: #14162D;
+    margin: auto 15px;
+}
+.footer_blue{
+    text-align: center;
+    color: white;
+    font: normal normal bold 20px Segoe UI;
+}

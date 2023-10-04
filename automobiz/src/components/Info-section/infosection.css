@@ -1,0 +1,45 @@
+.h-100vh{
+    height: 100vh;
+}
+.bg-darkish{
+    background-color: #14162D;
+}
+.car_img_section{
+    background: #171B42 0% 0% no-repeat padding-box;
+    height: 400px;
+    width: 280px;
+    margin-top: 100px;
+    margin-left:200px ;
+    margin-right: 30px;
+}
+.car_img_section img{
+    width: 100%;
+    margin-top: 150px;
+    transform: scale(1.3);
+}
+.w-480{
+    width: 50%;
+}
+.car_info_section h2{
+    margin-top: 90px;
+    font: normal normal  Segoe UI;
+    font-weight: bold;
+    color: #0069BD !important;
+}
+.orange{
+    color: #f87e1d;
+}
+.content img{
+    width: 60% !important;
+}
+.content h3{
+    color: #f87e1d;
+    font: normal normal bold 14px Segoe UI;
+    letter-spacing: 0.33px;
+}
+.content p{
+    font: normal normal bold 10px Segoe UI;
+    color: #0069BD;
+    letter-spacing: 0px;
+    /* margin-bottom: 0px; */
+}
