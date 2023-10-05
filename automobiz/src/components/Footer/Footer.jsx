@@ -11,10 +11,10 @@ const Footer = () => {
             <h4 className='mx-4'>Contact Info</h4>
         </div>
         <div className="d-flex justify-content-center mt-4">
-        <i class="fa-brands fa-linkedin"></i>
-            <i class="fa-brands fa-facebook"></i>
-            <i class="fa-brands fa-twitter"></i>
-            <i class="fa-brands fa-instagram"></i>
+        <i className="fa-brands fa-linkedin"></i>
+            <i className="fa-brands fa-facebook"></i>
+            <i className="fa-brands fa-twitter"></i>
+            <i className="fa-brands fa-instagram"></i>
         </div>
         
     </div>

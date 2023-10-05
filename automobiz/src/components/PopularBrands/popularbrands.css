@@ -1,5 +1,7 @@
 .h-40{
-    min-height:40vh ;
+   min-height:30vh ;
+   max-height: 35vh;
+    overflow: hidden;
 }
 .PopularBrands{
     background: #171B42 0% 0% no-repeat padding-box;

@@ -26,3 +26,16 @@
     padding: 10px 20px;
 
 }
+
+@media screen and (max-width:576px) {
+    .NewsAndUpdates h4{
+        font: normal normal bold 13px Segoe UI;
+        
+    }
+    .NewsAndUpdates p{
+        font: normal normal bold 10px Segoe UI;
+    }
+    .NewsAndUpdates a{
+        padding: 8px 15px;
+    }
+}

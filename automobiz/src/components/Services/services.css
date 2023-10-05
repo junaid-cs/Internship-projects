@@ -1,8 +1,9 @@
 .services {
     position: relative;
-    min-height: 70vh;
+    min-height: 100vh;
     background: url("../../../public/images/hero-section.jpeg") no-repeat;
     background-size: cover;
+    overflow: hidden;
 }
 
 .overlay {
@@ -44,4 +45,11 @@
     letter-spacing: 0.75px;
     opacity: 1;
     padding: 0 13px;
+}
+
+@media screen and (max-width:768px) {
+  
+    .services_card {
+        width: 100%;
+    }
 }

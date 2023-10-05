@@ -43,3 +43,20 @@
     letter-spacing: 0px;
     /* margin-bottom: 0px; */
 }
+
+
+
+@media screen and (max-width:994px) {
+    .w-480{
+        width:70%!important;
+    }
+}
+@media screen and (max-width:768px) {
+    .car_img_section{
+        width:50%!important;
+        margin-left:100px
+    }
+    .w-480{
+        width: 100% !important;
+    }
+}

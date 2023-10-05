@@ -88,3 +88,10 @@
     height: 50px;
     width: 110px;
 }
+
+
+@media screen and (max-width:991px) {
+    .search{
+        width: 80%;
+    }
+}

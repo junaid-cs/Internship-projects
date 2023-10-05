@@ -16,3 +16,10 @@ color: #14162D;
     color: white;
     font: normal normal bold 20px Segoe UI;
 }
+
+@media screen and (max-width:768px) {
+    .footer_orange h4{
+        font: normal normal bold 15px Segoe UI;
+    
+    }
+}

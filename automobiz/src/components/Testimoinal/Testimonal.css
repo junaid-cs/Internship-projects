@@ -261,7 +261,7 @@
 
 .carousel .control-dots {
     position: absolute;
-    bottom: 0;
+    bottom: 0rem;
     margin: 10px 0;
     padding: 0;
     text-align: center;

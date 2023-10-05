@@ -36,3 +36,13 @@
     letter-spacing: 1.44px;
     color: #FFFFFF;
 }
+
+
+@media screen and (max-width:768px) {
+   
+    
+    .bg-orange .search_btn {
+        font: normal normal bold 9px Segoe UI;
+       
+    }
+}
