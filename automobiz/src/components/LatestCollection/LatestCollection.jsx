@@ -49,8 +49,8 @@ const LatestCollection = () => {
                 
                     {
                         data.map((item)=>(
-                            <div className="col-xl-4 col-lg-5 col-md-6 col-12 p-3">
-                            <div className="card item-card card-block bg-dark" key={item.id}>
+                            <div className="col-xl-4 col-lg-5 col-md-6 col-12 p-3" key={item.id}>
+                            <div className="card item-card card-block bg-dark" >
                             <div className="img_container d-flex flex-column align-items-end">
                                 <i className='fa fa-eye my-2'></i>
                                 <i className='fa fa-share'></i>

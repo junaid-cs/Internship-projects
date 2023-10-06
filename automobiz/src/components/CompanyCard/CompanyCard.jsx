@@ -8,7 +8,7 @@ const CompanyCard = () => {
 
                 <div className="orange_card col-md-5 col-12 ps-5 me-4 d-flex justify-content-end align-items-center mb-md-0 mb-5 ">
                     <div className='ps-3'>
-                        <img src="./images/icon-1.png" className='img-fluid' alt="" srcset="" />
+                        <img src="./images/icon-1.png" className='img-fluid' alt="" srcSet="" />
                     </div>
                     <div className='ms-3'>
                         <h3 className='mb-3'>DO YOU WANT TO BUY AN AUTOMOTIVE ?</h3>
@@ -18,7 +18,7 @@ const CompanyCard = () => {
                     </div>
                 </div>
                 <div className="blue_card col-md-5 col-12 pe-5 mx-4 d-flex justify-content-end align-items-center"> <div className='ps-3'>
-                    <img src="./images/icon-1.png" className='img-fluid' alt="" srcset="" />
+                    <img src="./images/icon-1.png" className='img-fluid' alt="" srcSet="" />
                 </div>
                     <div className='ms-3'>
                         <h3 className='mb-3'>DO YOU WANT TO BUY AN AUTOMOTIVE ?</h3>

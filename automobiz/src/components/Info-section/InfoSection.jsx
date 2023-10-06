@@ -7,11 +7,11 @@ const InfoSection = () => {
     <div className='container-fluid bg-darkish min-h-100vh overflow-hidden'>
       <div className="container d-flex justify-content-md-between justify-content-center flex-md-nowrap flex-wrap mt-5 h-100">
 
-      <div className='car_img_section text-white w-25 position-relative  ms-5 ms-lg-auto'>
+      <div className='car_img_section text-white w-25 position-relative  ms-5 '>
       <Circle value={"45+"} second_value={"Vehicles Washed"} class_name={"first_circle"}/>
       <Circle value={"55+"} second_value={"Vehicles Repaired"} class_name={"second_circle"}/>
       <Circle value={"100+"} second_value={"Vehicles Serviced"} class_name={"third_circle"}/>
-          <img src="./images/info_car_section.png" alt="" srcset="" />
+          <img src="./images/info_car_section.png" alt="" srcSet="" />
       </div>
       <div className='car_info_section text-white  px-5 w-480'>
           <h2><span className='orange'>FIND</span> THE BEST AUTOMOTIVE <span className='orange'>SERVICES</span>  WITH AUTOMO <span className='orange'>BIZ</span></h2>

@@ -45,7 +45,7 @@ const Services = () => {
                     {
                         data.map((item) => (
                             <div className="services_card text-center mb-md-0 mb-3" key={item.id}>
-                                <img src={item.img} alt="" srcset="" />
+                                <img src={item.img} alt="" srcSet="" />
                                 <h3>{item.heading}</h3>
                                 <p>{item.des}</p>
                             </div>
